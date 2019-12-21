@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test case prioritization | Donghwan Shin</title>
+    <link>https://donghwan-shin.github.io/tags/test-case-prioritization/</link>
+      <atom:link href="https://donghwan-shin.github.io/tags/test-case-prioritization/index.xml" rel="self" type="application/rss+xml" />
+    <description>test case prioritization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <title>test case prioritization</title>
+      <link>https://donghwan-shin.github.io/tags/test-case-prioritization/</link>
+    </image>
+    
+    <item>
+      <title>Empirical evaluation of mutation-based test case prioritization techniques</title>
+      <link>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

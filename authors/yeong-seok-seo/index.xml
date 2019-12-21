@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeong-Seok Seo | Donghwan Shin</title>
+    <link>https://donghwan-shin.github.io/authors/yeong-seok-seo/</link>
+      <atom:link href="https://donghwan-shin.github.io/authors/yeong-seok-seo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yeong-Seok Seo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <title>Yeong-Seok Seo</title>
+      <link>https://donghwan-shin.github.io/authors/yeong-seok-seo/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Quality Improvement Strategies using COPQ in Software Industry</title>
+      <link>https://donghwan-shin.github.io/publication/seo-2012-identification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/seo-2012-identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

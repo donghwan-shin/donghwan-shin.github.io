@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonkyung Yun | Donghwan Shin</title>
+    <link>https://donghwan-shin.github.io/authors/wonkyung-yun/</link>
+      <atom:link href="https://donghwan-shin.github.io/authors/wonkyung-yun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonkyung Yun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <title>Wonkyung Yun</title>
+      <link>https://donghwan-shin.github.io/authors/wonkyung-yun/</link>
+    </image>
+    
+    <item>
+      <title>Mutation Analysis for System of Systems Policy Testing</title>
+      <link>https://donghwan-shin.github.io/publication/yun-2017-mas-3103196-3103200/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/yun-2017-mas-3103196-3103200/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Case Study for Mutation-based Fault Localization for FBD Programs</title>
+      <link>https://donghwan-shin.github.io/publication/shin-2016-case/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/shin-2016-case/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

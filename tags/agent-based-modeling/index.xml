@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agent-based modeling | Donghwan Shin</title>
+    <link>https://donghwan-shin.github.io/tags/agent-based-modeling/</link>
+      <atom:link href="https://donghwan-shin.github.io/tags/agent-based-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>agent-based modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <title>agent-based modeling</title>
+      <link>https://donghwan-shin.github.io/tags/agent-based-modeling/</link>
+    </image>
+    
+    <item>
+      <title>ABC&#43;: Extended Action-benefit-cost Modeling with Knowledge-based Decision-making and Interaction Model for System of Systems Simulation</title>
+      <link>https://donghwan-shin.github.io/publication/jin-2018-aea-3167132-3167426/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/jin-2018-aea-3167132-3167426/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
