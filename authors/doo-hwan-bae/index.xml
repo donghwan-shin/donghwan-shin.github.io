@@ -14,6 +14,14 @@
     
     <item>
       <title>Empirical evaluation of mutation-based test case prioritization techniques</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1695/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1695/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evaluation of mutation-based test case prioritization techniques</title>
       <link>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</guid>
@@ -30,9 +38,25 @@
     
     <item>
       <title>ABC&#43;: Extended Action-benefit-cost Modeling with Knowledge-based Decision-making and Interaction Model for System of Systems Simulation</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/jin-2018-aea-3167132-3167426/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/jin-2018-aea-3167132-3167426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC&#43;: Extended Action-benefit-cost Modeling with Knowledge-based Decision-making and Interaction Model for System of Systems Simulation</title>
       <link>https://donghwan-shin.github.io/publication/jin-2018-aea-3167132-3167426/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/jin-2018-aea-3167132-3167426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Mutation Scores Correlated with Real Fault Detection?: A Large Scale Empirical Study on the Relationship Between Mutants and Real Faults</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/papadakis-2018-msc-3180155-3180183/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/papadakis-2018-msc-3180155-3180183/</guid>
       <description></description>
     </item>
     
@@ -46,9 +70,25 @@
     
     <item>
       <title>An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/kim-2017-applicability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/kim-2017-applicability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification</title>
       <link>https://donghwan-shin.github.io/publication/kim-2017-applicability/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/kim-2017-applicability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation Analysis for System of Systems Policy Testing</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/yun-2017-mas-3103196-3103200/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/yun-2017-mas-3103196-3103200/</guid>
       <description></description>
     </item>
     
@@ -62,9 +102,41 @@
     
     <item>
       <title>Comprehensive analysis of FBD test coverage criteria using mutants</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/shin-2016-comprehensive/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/shin-2016-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of FBD test coverage criteria using mutants</title>
       <link>https://donghwan-shin.github.io/publication/shin-2016-comprehensive/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/shin-2016-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theoretical Framework for Understanding Mutation-Based Testing Methods</title>
+      <link>https://donghwan-shin.github.io/publication/7515481/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/7515481/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity-Aware Mutation Adequacy Criterion for Improving Fault Detection Capability</title>
+      <link>https://donghwan-shin.github.io/publication/7528954/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/7528954/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Case Study for Mutation-based Fault Localization for FBD Programs</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/shin-2016-case/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/shin-2016-case/</guid>
       <description></description>
     </item>
     
@@ -73,6 +145,22 @@
       <link>https://donghwan-shin.github.io/publication/shin-2016-case/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/shin-2016-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Testing of Self-Adaptive Behaviors in Collective Adaptive Systems</title>
+      <link>https://donghwan-shin.github.io/publication/7273621/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/7273621/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Resource Allocation in Software Project with Practical Considerations</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/doi-10-1142-s-021819401540001-x/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/doi-10-1142-s-021819401540001-x/</guid>
       <description></description>
     </item>
     
@@ -86,9 +174,41 @@
     
     <item>
       <title>Quality Based Software Project Staffing and Scheduling with Budget and Deadline.</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/seo-2015-quality/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/seo-2015-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Based Software Project Staffing and Scheduling with Budget and Deadline.</title>
       <link>https://donghwan-shin.github.io/publication/seo-2015-quality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/seo-2015-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-based software project staffing and scheduling with project deadline</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/seo-2015-quality-2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/seo-2015-quality-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-based software project staffing and scheduling with project deadline</title>
+      <link>https://donghwan-shin.github.io/publication/seo-2015-quality-2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/seo-2015-quality-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated test case generation for FBD programs implementing reactor protection system software</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1548/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1548/</guid>
       <description></description>
     </item>
     
@@ -102,9 +222,57 @@
     
     <item>
       <title>Practical Human Resource Allocation in Software Projects Using Genetic Algorithm.</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/park-2014-practical/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/park-2014-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Human Resource Allocation in Software Projects Using Genetic Algorithm.</title>
       <link>https://donghwan-shin.github.io/publication/park-2014-practical/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/park-2014-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Human Resource Allocation based on Practical Feedback from Software Industry</title>
+      <link>https://donghwan-shin.github.io/publication/hwa-2013-automated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/hwa-2013-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Project Planning Technique and Tool Based on Software Industry Requirements</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/park-2013-automatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/park-2013-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Project Planning Technique and Tool Based on Software Industry Requirements</title>
+      <link>https://donghwan-shin.github.io/publication/park-2013-automatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/park-2013-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of Mutation Operators for FBD Models</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/shin-2012-definition/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/shin-2012-definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of Mutation Operators for FBD Models</title>
+      <link>https://donghwan-shin.github.io/publication/shin-2012-definition/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/shin-2012-definition/</guid>
       <description></description>
     </item>
     
@@ -113,6 +281,22 @@
       <link>https://donghwan-shin.github.io/publication/10-1007-978-3-642-33666-9-30/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/publication/10-1007-978-3-642-33666-9-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Evaluation on FBD Model-Based Test Coverage Criteria Using Mutation Analysis</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/10-1007-978-3-642-33666-9-30/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/10-1007-978-3-642-33666-9-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Quality Improvement Strategies using COPQ in Software Industry</title>
+      <link>https://donghwan-shin.github.io/publication/content/publication/seo-2012-identification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/content/publication/seo-2012-identification/</guid>
       <description></description>
     </item>
     

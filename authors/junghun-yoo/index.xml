@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junghun Yoo | Donghwan Shin</title>
+    <link>https://donghwan-shin.github.io/authors/junghun-yoo/</link>
+      <atom:link href="https://donghwan-shin.github.io/authors/junghun-yoo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junghun Yoo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <title>Junghun Yoo</title>
+      <link>https://donghwan-shin.github.io/authors/junghun-yoo/</link>
+    </image>
+    
+    <item>
+      <title>Formal Modeling and Verification of a Federated Byzantine Agreement Algorithm for Blockchain Platforms</title>
+      <link>https://donghwan-shin.github.io/publication/8666514/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/publication/8666514/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

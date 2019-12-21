@@ -5,12 +5,44 @@
     <link>https://donghwan-shin.github.io/authors/</link>
       <atom:link href="https://donghwan-shin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://donghwan-shin.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://donghwan-shin.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Donghwan Shin</title>
+      <link>https://donghwan-shin.github.io/authors/donghwan-shin/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/donghwan-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitash Ul Haq</title>
+      <link>https://donghwan-shin.github.io/authors/fitash-ul-haq/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/fitash-ul-haq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lionel Briand</title>
+      <link>https://donghwan-shin.github.io/authors/lionel-briand/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/lionel-briand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiva Nejati</title>
+      <link>https://donghwan-shin.github.io/authors/shiva-nejati/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/shiva-nejati/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D. Shin</title>
@@ -29,10 +61,26 @@
     </item>
     
     <item>
+      <title>Eunkyoung Jee</title>
+      <link>https://donghwan-shin.github.io/authors/eunkyoung-jee/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/eunkyoung-jee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J. Yoo</title>
       <link>https://donghwan-shin.github.io/authors/j.-yoo/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/authors/j.-yoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junghun Yoo</title>
+      <link>https://donghwan-shin.github.io/authors/junghun-yoo/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/junghun-yoo/</guid>
       <description></description>
     </item>
     
@@ -45,6 +93,14 @@
     </item>
     
     <item>
+      <title>Minhyo Bae</title>
+      <link>https://donghwan-shin.github.io/authors/minhyo-bae/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/minhyo-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Y. Jung</title>
       <link>https://donghwan-shin.github.io/authors/y.-jung/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -53,10 +109,10 @@
     </item>
     
     <item>
-      <title>Donghwan Shin</title>
-      <link>https://donghwan-shin.github.io/authors/donghwan-shin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/authors/donghwan-shin/</guid>
+      <title>Youlim Jung</title>
+      <link>https://donghwan-shin.github.io/authors/youlim-jung/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/youlim-jung/</guid>
       <description></description>
     </item>
     
@@ -85,6 +141,22 @@
     </item>
     
     <item>
+      <title>D. Bae</title>
+      <link>https://donghwan-shin.github.io/authors/d.-bae/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/d.-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Yoo</title>
+      <link>https://donghwan-shin.github.io/authors/s.-yoo/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/s.-yoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mingyu Jin</title>
       <link>https://donghwan-shin.github.io/authors/mingyu-jin/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -109,34 +181,18 @@
     </item>
     
     <item>
-      <title>Eunkyoung Jee</title>
-      <link>https://donghwan-shin.github.io/authors/eunkyoung-jee/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/authors/eunkyoung-jee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Bae</title>
-      <link>https://donghwan-shin.github.io/authors/d.-bae/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/authors/d.-bae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Yoo</title>
-      <link>https://donghwan-shin.github.io/authors/s.-yoo/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/authors/s.-yoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Y. J. Lim</title>
       <link>https://donghwan-shin.github.io/authors/y.-j.-lim/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/authors/y.-j.-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoolim Jung</title>
+      <link>https://donghwan-shin.github.io/authors/yoolim-jung/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/yoolim-jung/</guid>
       <description></description>
     </item>
     
@@ -189,6 +245,102 @@
     </item>
     
     <item>
+      <title>D Shin</title>
+      <link>https://donghwan-shin.github.io/authors/d-shin/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/d-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DH Bae</title>
+      <link>https://donghwan-shin.github.io/authors/dh-bae/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/dh-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Bae</title>
+      <link>https://donghwan-shin.github.io/authors/g-bae/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/g-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Hong</title>
+      <link>https://donghwan-shin.github.io/authors/g-hong/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/g-hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gigon Bae</title>
+      <link>https://donghwan-shin.github.io/authors/gigon-bae/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/gigon-bae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Hwa</title>
+      <link>https://donghwan-shin.github.io/authors/j-hwa/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/j-hwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Park</title>
+      <link>https://donghwan-shin.github.io/authors/j-park/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/j-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeong-Seok Seo</title>
+      <link>https://donghwan-shin.github.io/authors/yeong-seok-seo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/yeong-seok-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong-Seok Seo</title>
+      <link>https://donghwan-shin.github.io/authors/yong-seok-seo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/yong-seok-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YS Seo</title>
+      <link>https://donghwan-shin.github.io/authors/ys-seo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/ys-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dong-Hwan Shin</title>
+      <link>https://donghwan-shin.github.io/authors/dong-hwan-shin/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/dong-hwan-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eun-Kyoung Jee</title>
+      <link>https://donghwan-shin.github.io/authors/eun-kyoung-jee/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://donghwan-shin.github.io/authors/eun-kyoung-jee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gookhyun Kim</title>
       <link>https://donghwan-shin.github.io/authors/gookhyun-kim/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -205,20 +357,11 @@
     </item>
     
     <item>
-      <title>Yeong-Seok Seo</title>
-      <link>https://donghwan-shin.github.io/authors/yeong-seok-seo/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/authors/yeong-seok-seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://donghwan-shin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://donghwan-shin.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a research associate at SVV (Software Verification and Validation) group at SnT, University of Luxembourg. My research interests are mainly related to software mutation testing, model inference, log analysis, and testing for AI. I am doing research&lt;/p&gt;
-&lt;p&gt;I received BS, MS, and PhD in computer science in 2010, 2012, and 2018, respectively, from KAIST.&lt;/p&gt;
+      <description>&lt;p&gt;I am a research associate at SVV (Software Verification and Validation) group at SnT, University of Luxembourg. I am doing research because I like to surpass myself, keep learning and aim higher. I believe software engineering can improve the cost-effectiveness of our &lt;em&gt;world&lt;/em&gt;. My research interests are mainly related to &lt;em&gt;bugs&lt;/em&gt;: how to kill bugs (i.e., testing) and how to fix the software programs (i.e., debugging). Recently, I am also interested in systematic testing approaches for AI-based systems.&lt;/p&gt;
 </description>
     </item>
     
