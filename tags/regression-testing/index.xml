@@ -7,24 +7,16 @@
     <description>regression testing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>regression testing</title>
       <link>https://donghwan-shin.github.io/tags/regression-testing/</link>
     </image>
     
     <item>
       <title>Empirical evaluation of mutation-based test case prioritization techniques</title>
-      <link>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1695/</link>
+      <link>https://donghwan-shin.github.io/publication/stvr-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/content/publication/doi-10-1002-stvr-1695/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empirical evaluation of mutation-based test case prioritization techniques</title>
-      <link>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/doi-10-1002-stvr-1695/</guid>
+      <guid>https://donghwan-shin.github.io/publication/stvr-2019/</guid>
       <description></description>
     </item>
     

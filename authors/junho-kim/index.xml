@@ -7,40 +7,24 @@
     <description>Junho Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://donghwan-shin.github.io/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Junho Kim</title>
       <link>https://donghwan-shin.github.io/authors/junho-kim/</link>
     </image>
     
     <item>
       <title>An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification</title>
-      <link>https://donghwan-shin.github.io/publication/content/publication/kim-2017-applicability/</link>
+      <link>https://donghwan-shin.github.io/publication/kiise-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/content/publication/kim-2017-applicability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification</title>
-      <link>https://donghwan-shin.github.io/publication/kim-2017-applicability/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/kim-2017-applicability/</guid>
+      <guid>https://donghwan-shin.github.io/publication/kiise-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Case Study for Mutation-based Fault Localization for FBD Programs</title>
-      <link>https://donghwan-shin.github.io/publication/content/publication/shin-2016-case/</link>
+      <link>https://donghwan-shin.github.io/publication/kiise-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/content/publication/shin-2016-case/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Case Study for Mutation-based Fault Localization for FBD Programs</title>
-      <link>https://donghwan-shin.github.io/publication/shin-2016-case/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://donghwan-shin.github.io/publication/shin-2016-case/</guid>
+      <guid>https://donghwan-shin.github.io/publication/kiise-2016/</guid>
       <description></description>
     </item>
     
